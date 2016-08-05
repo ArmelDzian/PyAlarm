@@ -1,5 +1,4 @@
 # Simple Alarm
-# This software was developed by Armel E. Dzian (c)2016
 
 import datetime
 import time
